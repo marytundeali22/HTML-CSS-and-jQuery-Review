@@ -1,0 +1,24 @@
+.pictures {
+    background-color: pink;
+    border: 20px groove lightgreen;
+}
+
+h1 {
+    color: limegreen;
+}
+
+.nigeria:hover {
+    border: 10px dashed lightgreen;
+    padding: 20px;
+}
+
+body {
+    background: green;
+}
+
+div {
+    display: flex;
+    justify-content: space-between;
+    background-color: pink;
+    padding: 15px;
+}
